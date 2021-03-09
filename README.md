@@ -1,4 +1,3 @@
-# To use the app
 # [`App/Website`](https://githubfinderch.netlify.app)
 
 
